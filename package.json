@@ -1,0 +1,31 @@
+{
+  "name": "product-search",
+  "version": "1.0.0",
+  "description": "A tool for comparing prices and values across different retailers based on keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "puppeteer": "^23.1.1",
+    "cheerio": "^1.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^1.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-kearney/product-search.git"
+  },
+  "keywords": [
+    "product",
+    "web",
+    "js",
+    "price"
+  ],
+  "author": "Tyler Kearney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-kearney/product-search/issues"
+  },
+  "homepage": "https://github.com/tyler-kearney/product-search#readme"
+}
